@@ -1,0 +1,2 @@
+# .streamlit/secrets.toml
+API_KEY = "9cb2b4c8b53b00d8e878620414e72bce"
